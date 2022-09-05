@@ -10,6 +10,8 @@
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 
+![codewars](https://www.codewars.com/users/Rz0R/badges/large)
+
 <a href="https://github.com/rz0r/rz0r">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rz0r&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
