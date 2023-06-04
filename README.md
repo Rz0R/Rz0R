@@ -12,7 +12,7 @@
 
 ## 🔥 Codewars!
 
-![codewars](https://www.codewars.com/users/Rz0R/badges/large)
+[![codewars](https://www.codewars.com/users/Rz0R/badges/large)](https://www.codewars.com/users/Rz0R)
 
 ## &#x1f4c8; GitHub Stats
 
