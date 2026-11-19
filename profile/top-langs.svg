@@ -134,7 +134,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="64.8641753385669%">
+      <svg data-testid="lang-progress" width="64.86358345615079%">
         <rect
             height="8"
             fill="#f1e05a"
@@ -149,11 +149,11 @@
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript</text>
-      <text x="215" y="34" class="lang-name">23.56%</text>
+      <text x="215" y="34" class="lang-name">23.58%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="23.564455273592017%">
+      <svg data-testid="lang-progress" width="23.575634027522415%">
         <rect
             height="8"
             fill="#3178c6"
@@ -168,11 +168,11 @@
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">SCSS</text>
-      <text x="215" y="34" class="lang-name">11.57%</text>
+      <text x="215" y="34" class="lang-name">11.56%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="11.571369387841084%">
+      <svg data-testid="lang-progress" width="11.560782516326782%">
         <rect
             height="8"
             fill="#c6538c"
